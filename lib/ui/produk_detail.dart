@@ -17,7 +17,7 @@ class _ProdukDetailState extends State<ProdukDetail> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Detail Produk'),
+        title: const Text('Detail Produk Yaya'),
       ),
       body: Center(
         child: Column(
