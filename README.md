@@ -16,20 +16,12 @@ Shift : C
 
 
 
-Contoh format:
+https://github.com/user-attachments/assets/969c64de-f18f-4869-960a-241e1b9093da
 
-1.1 Halaman Login
 
-1.2 Halaman Dashboard Produk
-
-1.3 Form Tambah Produk
-
-(silakan ganti dengan screenshot asli kamu)
 
 ## 2. PROSES LOGIN (Langkah-demi-Langkah)
 a. User membuka halaman Login
-
-
 
 Pada halaman ini, pengguna menginputkan:
 
