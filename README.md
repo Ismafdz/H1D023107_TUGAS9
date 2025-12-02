@@ -1,4 +1,4 @@
-# Tugas Pertemuan 10 — Aplikasi TokoKita (Mobile Programming)
+# Tugas Pertemuan 11 — Aplikasi TokoKita (Mobile Programming)
 
 Proyek ini merupakan implementasi tugas praktikum **Pemrograman Mobile Pertemuan 11** menggunakan **Flutter**. Aplikasi ini menampilkan fitur manajemen data toko (**CRUD Produk**) serta sistem otentikasi pengguna (**Login & Register**) yang saling terintegrasi.
 
